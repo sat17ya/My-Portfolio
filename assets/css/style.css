@@ -99,9 +99,9 @@ a:hover {
   }
 }
 
-.overlay-mf {
+/* .overlay-mf {
   background-color: #0078ff;
-}
+} */
 
 .overlay-mf {
   position: absolute;
@@ -219,6 +219,7 @@ a:hover {
 
 .socials ul li {
   display: inline-block;
+  padding: 8px;
 }
 
 .socials .ico-circle {
@@ -989,7 +990,12 @@ a:hover {
 .w-title {
   font-size: 1.2rem;
 }
+.btn1{
+  display: flex;
+  justify-content: center;
 
+  
+}
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
